@@ -12,6 +12,6 @@ python convert2png.py \
 
 bug: 
 -----------
-Got problems when using multiprocess mode, "F: No such file or directory: reading file: /media/renyz/data8g/Dicom/2fy/1.2.840.587982164.20160809115251.170753/1.2.840.887072.1.9.1.1.20160809115319.364.19216825342."
+Got problems when using multiprocess mode, "F: No such file or directory: reading file: /media/xxxxx/data/Dicom/2fy/1.2.840.587982164.20160809115251.170753/1.2.840.887072.1.9.1.1.20160809115319.364.19216825342."
 
 U can also update it!
